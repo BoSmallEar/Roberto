@@ -1,0 +1,8 @@
+6
+0.777284 -11.0984 0  0 0 1       0
+-5.8     -11.0984 0  0 0 1       0
+-6.5644  -9.9210  0  0 0 0.8788  0.4772
+-5.8     -11.0984 0  0 0 0       1
+0.777284 -11.0984 0  0 0 0       1
+0.4353   -9.8814  0  0 0 0.7970  0.6039
+after pick up C1, back to B then back to A then go to trash bin, then go to A, then go to B, then go to P2 

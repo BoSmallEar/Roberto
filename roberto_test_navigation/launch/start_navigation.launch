@@ -1,0 +1,6 @@
+<launch>
+    <include file="$(find tiago_2dnav_gazebo)/launch/roberto_navigation.launch">
+         <arg name="public_sim"  value="true"/>
+         <arg name="lost"  value="true"/>
+    </include> 
+</launch>

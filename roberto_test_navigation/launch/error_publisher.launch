@@ -1,0 +1,4 @@
+<launch> 
+    <node pkg = "roberto_test_navigation" type = "error_publisher.py" name = "error_publisher"  output = "screen">
+    </node>
+</launch>

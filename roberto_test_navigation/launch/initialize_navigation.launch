@@ -1,0 +1,6 @@
+<launch> 
+    <node pkg = "roberto_test_navigation" type = "key_vel_publisher.py" name = "key_vel_publisher" output = "screen">
+    </node>
+    <node pkg = "roberto_ik_planner" type="ik_planner.py" name = "ik_planner"  output="screen">
+    </node>
+</launch>
